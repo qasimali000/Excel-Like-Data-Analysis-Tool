@@ -72,7 +72,7 @@ You can test the app with the provided sample dataset:
 7. Demo
 ![Adobe Express - 2025-08-09 15-04-08](https://github.com/user-attachments/assets/36120c53-037b-48c5-bed9-275e20de6c28)
 
-
+Here is the link to the Medium article as well where I go into detailed step by step: https://medium.com/@capali/build-your-own-excel-like-data-analysis-tool-in-python-12951df0d3bd
 
 Contributing
 Feel free to fork the repo and submit pull requests. Suggestions and feature requests are welcome!

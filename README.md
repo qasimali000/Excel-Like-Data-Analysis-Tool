@@ -75,10 +75,10 @@ You can test the app with the provided sample dataset:
 Here is the link to the Medium article as well where I go into detailed step by step: https://medium.com/@capali/build-your-own-excel-like-data-analysis-tool-in-python-12951df0d3bd
 
 8. Contributing
-   Feel free to fork the repo and submit pull requests. Suggestions and feature requests are welcome!
+   - Feel free to fork the repo and submit pull requests. Suggestions and feature requests are welcome!
 
 10. License
-   This project is open source under the MIT License.
+   - This project is open source under the MIT License.
 
 
 
